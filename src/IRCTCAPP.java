@@ -49,7 +49,7 @@ while(true){
     }
 
     private void logout(){
-        System.out.println("thnxu for using IRCTCAPP");
+        System.out.println("Thank you for using IRCTC APP");
         System.exit(0);
     }
     private void showusermenu(){
